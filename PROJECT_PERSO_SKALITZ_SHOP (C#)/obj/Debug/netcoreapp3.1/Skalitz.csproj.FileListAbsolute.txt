@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.AssemblyInfo.cs
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\bin\Debug\netcoreapp3.1\Skalitz.exe
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\bin\Debug\netcoreapp3.1\Skalitz.deps.json
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\bin\Debug\netcoreapp3.1\Skalitz.runtimeconfig.json
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\bin\Debug\netcoreapp3.1\Skalitz.runtimeconfig.dev.json
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\bin\Debug\netcoreapp3.1\Skalitz.dll
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\bin\Debug\netcoreapp3.1\Skalitz.pdb
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.dll
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.pdb
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.genruntimeconfig.cache
+C:\Users\Dell\Documents\Mywork\Skalitz\Skalitz\obj\Debug\netcoreapp3.1\Skalitz.csproj.AssemblyReference.cache

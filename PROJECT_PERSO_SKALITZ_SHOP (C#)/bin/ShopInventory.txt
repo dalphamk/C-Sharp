@@ -1,0 +1,3 @@
+Herod's sword:0,Skalitz shield:0,St. George's sword:0
+Warhorse helmet:1,Noble cuirass:1,Zoul leg plate:1
+Spirits:2,Drinking water:2,Musk of Infinite Allure:2,Padfoot potion:2
